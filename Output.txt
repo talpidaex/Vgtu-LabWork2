@@ -1,0 +1,5 @@
+
+[
+{Title :Microsoft	Producer:Windows10	Origin : USA	Price : 400.0	Year :2014}, 
+{Title :Apple	Producer:MacAir	Origin : USA	Price : 1500.0	Year :2015}, 
+{Title :Apple	Producer:Iphone	Origin : USA	Price : 1000.0	Year :2018}]
